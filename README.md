@@ -1,5 +1,6 @@
-# server4no
-private server untuk "a certain anime game"
+# pemotongrumput
+Penerapan ulang perangkat lunak peladen untuk permainan anime tertentu
 
-node.js
-2.3-2.6
+Kini menggunakan node.js!
+
+Untuk versi klien 2.3-2.6
