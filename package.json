@@ -1,19 +1,19 @@
 {
-  "name": "server4no",
+  "name": "pemotongrumput",
   "version": "1.0.0",
-  "description": "private server untuk \"a certain anime game\"",
+  "description": "Penerapan ulang perangkat lunak peladen untuk permainan anime tertentu",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sotredeveloepr/server4no.git"
+    "url": "git+https://github.com/sotredeveloepr/Pemotongrumput.git"
   },
   "author": "sotredeveloepr",
-  "license": "AGPL-3.0-or-later",
+  "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/sotredeveloepr/server4no/issues"
+    "url": "https://github.com/sotredeveloepr/Pemotongrumput/issues"
   },
-  "homepage": "https://github.com/sotredeveloepr/server4no#readme"
+  "homepage": "https://github.com/sotredeveloepr/Pemotongrumput#readme"
 }
