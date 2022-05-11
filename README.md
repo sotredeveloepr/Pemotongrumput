@@ -1,5 +1,5 @@
-# pemotongrumput
-Penerapan ulang perangkat lunak peladen untuk permainan anime tertentu
+# Pemotongrumput
+Penerapan ulang perangkat lunak peladen untuk permainan anime tertentu berdasarkan https://github.com/Grasscutters/Grasscutter
 
 Kini menggunakan NodeJS!
 

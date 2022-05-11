@@ -1,6 +1,7 @@
-import Pemotongrumput from "../../index.js";
-
-export class GameServer
+export default class GameServer
 {
-  console.log("tes");
+  start()
+  {
+    console.log("kode game");
+  }
 }

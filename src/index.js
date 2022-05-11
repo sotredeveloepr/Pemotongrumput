@@ -1,6 +1,8 @@
 import GameServer from "./server/game/GameServer.js";
+import DispatchServer from "./server/dispatch/DispatchServer.js";
+
 const gameServer = new GameServer();
-export default class Main
-{
-  
-}
+const dispatchServer = new DispatchServer();
+
+dispatchServer.start();
+gameServer.start();
